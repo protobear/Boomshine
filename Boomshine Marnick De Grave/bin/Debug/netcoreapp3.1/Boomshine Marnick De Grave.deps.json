@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Boomshine Marnick De Grave/1.0.0": {
+        "runtime": {
+          "Boomshine Marnick De Grave.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Boomshine Marnick De Grave/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
